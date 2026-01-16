@@ -18,5 +18,10 @@
   "homepage": "https://github.com/soumaya-yousrani-vinci/IPL_social#readme",
   "dependencies": {
     "jest": "^30.2.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "ts-jest": "^29.4.6",
+    "typescript": "^5.9.3"
   }
 }
